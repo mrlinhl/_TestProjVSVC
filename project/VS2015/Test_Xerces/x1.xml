@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MSG>
+ <META>
+   <SNDR>FIMS</SNDR>
+   <RCVR/>
+   <SEQN>29</SEQN>
+   <DDTM>20150121194100</DDTM>
+   <TYPE>DFME</TYPE>
+   <STYP>AIRL</STYP>
+ </META>
+ <DFLT>
+ <FLID>30798</FLID>
+ <FFID>3U-8899-20150925-D</FFID>
+ <FLTK>W/Z</FLTK>
+    <AIRL>
+      <ARPT>
+         <APNO>1</APNO>
+         <APCD>CGO</APCD>
+         <FPTT>20150925194100</FPTT>
+         <FETT>20150926062203</FETT>
+         <FRTT/><FPLT/>
+         <FELT/><FRLT/>
+         <APAT>2403</APAT>
+      </ARPT>
+      <ARPT>
+        <APNO>2</APNO>
+        <APCD>SJW</APCD>
+        <FPTT/><FETT/><FRTT/>
+        <FPLT>20150925224100</FPLT>
+        <FELT/><FRLT/>
+        <APAT>2403</APAT>
+       </ARPT>
+     </AIRL>
+  </DFLT>
+</MSG>
